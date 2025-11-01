@@ -42,5 +42,4 @@ Notes & pointers
 
 Troubleshooting
 . If forecasts or current weather fail to load, check the browser console for network errors and verify VITE_APP_ID in .env.
-Ensure Node (>=16) and npm are
 . Ensure Node (>=16) and npm are installed and run npm install before starting.
